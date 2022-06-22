@@ -1,1 +1,2 @@
 # Vaccine-Management-System
+This is a Vaccine Management System developed using the Object Oriented Programming Paradigm. It uses STL, Data Structures and Algorithms. It obeys OOPs principals like Abstraction, Encapsulation, Inheritance and Polymorphism. This Complex System is divided into small functions and specific classes and then Programmed. The code is neat, reusable and efficent.  
